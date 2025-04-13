@@ -6,10 +6,10 @@ Welcome to the training section of our online work system. This guide will help 
 
 ## 📌 Index
 
-### 1️⃣ [📂 File Structure of Our Online Work](file-structure.md)
+### 1️⃣ [📂 File Structure of Our Online Work](/w/file-structure.md)
 Learn how to create folders for months, dates, and organize English & Punjabi files into Before and After folders.
 
-### 2️⃣ [📝 How to Create and Setup a Word File](word-file-setup.md)
+### 2️⃣ [📝 How to Create and Setup a Word File](/w/setup.md)
 Step-by-step guide to create a Word file, rename it, and apply proper layout, margins, font and styling for translation.
 
 ### 3️⃣ [💼 How to Do Work](how-to-do-work.md)
