@@ -1,112 +1,25 @@
+# 📁 Online Work - Training Guide
+
+Welcome to the training section of our online work system. This guide will help you understand how we manage files, create and setup word documents, translate content properly, and install necessary fonts like Raavi. Make sure to follow each section step-by-step.
 
 ---
 
-# 📁 **File Management System for Online Work**  
-📍 `C:\Users\{User Name}\Documents\Online Work\April\13-04-2025`
+## 📌 Index
 
-This structure helps in storing and managing English (Before) and Punjabi (After) files in a clean way.
+### 1️⃣ [📂 File Structure of Our Online Work](file-structure.md)
+Learn how to create folders for months, dates, and organize English & Punjabi files into Before and After folders.
 
----
+### 2️⃣ [📝 How to Create and Setup a Word File](word-file-setup.md)
+Step-by-step guide to create a Word file, rename it, and apply proper layout, margins, font and styling for translation.
 
-### ✅ **1. Create a New Folder**
-![Error 404](/image/file_structure/1.png)
+### 3️⃣ [💼 How to Do Work](how-to-do-work.md)
+Understand how to translate the English PDF content to Punjabi using the Raavi font and structured formatting.
 
-**English:**  
-Create a new folder anywhere on your PC from the Home tab or press **Ctrl + Shift + N**.
-
-**ਪੰਜਾਬੀ (Punjabi):**  
-ਕੰਪਿਊਟਰ ‘ਚ ਨਵਾ ਫੋਲਡਰ ਬਣਾਓ — Home tab ‘ਚੋਂ ਜਾਂ **Ctrl + Shift + N** ਦਬਾ ਕੇ।
-
-**हिंदी (Hindi):**  
-कंप्यूटर में कहीं भी नया फोल्डर बनाओ — Home टैब से या **Ctrl + Shift + N** दबाकर।
+### 4️⃣ [🔤 How to Install Raavi Font](install-raavi-font.md)
+Don’t have Raavi font? No worries! Follow this guide to install the Raavi font on your system quickly.
 
 ---
 
-### ✅ **2. Rename the Folder**
-![Error 404](/image/file_structure/2.png)
-
-**English:**  
-Name the folder as **Online Work**.
-
-**ਪੰਜਾਬੀ:**  
-ਫੋਲਡਰ ਦਾ ਨਾਂ **Online Work** ਰੱਖੋ।
-
-**हिंदी:**  
-फोल्डर का नाम **Online Work** रखो।
-
----
-
-### ✅ **3. Press Enter**
-![Error 404](/image/file_structure/3.png)
-
-**English:**  
-After typing the name, press **Enter**.
-
-**ਪੰਜਾਬੀ:**  
-ਨਾਂ ਲਿਖਣ ਤੋਂ ਬਾਅਦ **Enter** ਦਬਾਓ।
-
-**हिंदी:**  
-नाम लिखने के बाद **Enter** दबाओ।
-
----
-
-### ✅ **4. Create Month Folder Inside**
-![Error 404](/image/file_structure/4.png)
-
-**English:**  
-Open **Online Work** and create a folder named with the current month (e.g., **April**).
-
-**ਪੰਜਾਬੀ:**  
-**Online Work** ਫੋਲਡਰ ਖੋਲ੍ਹੋ ਅਤੇ ਅੰਦਰ **April** (ਮਹੀਨਾ) ਫੋਲਡਰ ਬਣਾਓ।
-
-**हिंदी:**  
-**Online Work** फोल्डर खोलो और अंदर **April** (महीना) नाम का फोल्डर बनाओ।
-
----
-
-### ✅ **5. Create Today's Date Folder**
-![Error 404](/image/file_structure/5.png)
-
-**English:**  
-Inside **April**, create a folder with today’s date (e.g., **13-04-2025**).
-
-**ਪੰਜਾਬੀ:**  
-**April** ਦੇ ਅੰਦਰ ਅੱਜ ਦੀ ਤਾਰੀਖ ਵਾਲਾ ਫੋਲਡਰ ਬਣਾਓ (**13-04-2025**)।
-
-**हिंदी:**  
-**April** के अंदर आज की तारीख का फोल्डर बनाओ (**13-04-2025**)।
-
----
-
-### ✅ **6. Create "Before" & "After" Folders**
-![Error 404](/image/file_structure/6.png)
-
-
-**English:**  
-Inside **13-04-2025**, make two folders:
-- **Before** → Store English file here  
-- **After** → Store translated Punjabi file here
-
-**ਪੰਜਾਬੀ:**  
-**13-04-2025** ਦੇ ਅੰਦਰ ਦੋ ਫੋਲਡਰ ਬਣਾਓ:
-- **Before** → ਇੱਥੇ ਅੰਗਰੇਜ਼ੀ ਫਾਈਲ ਰੱਖੋ  
-- **After** → ਇੱਥੇ ਪੰਜਾਬੀ ਟਰਾਂਸਲੇਟ ਫਾਈਲ ਰੱਖੋ  
-
-**हिंदी:**  
-**13-04-2025** के अंदर दो फोल्डर बनाओ:
-- **Before** → यहाँ इंग्लिश फाइल रखो  
-- **After** → यहाँ पंजाबी ट्रांसलेट की गई फाइल रखो  
-
----
-
-### 📝 Final Structure Overview:
-
-```
-Online Work  
-└── April  
-    └── 13-04-2025  
-        ├── Before (English File)  
-        └── After (Punjabi Translation)  
-```
+📣 **Note:** Follow all steps carefully for a smooth and error-free workflow. If you're stuck anywhere, contact your supervisor or check the respective section above.
 
 ---
